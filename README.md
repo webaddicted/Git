@@ -7,6 +7,7 @@
     git add README.md
     git commit -m "first commit"
     git remote add origin https://github.com/webaddicted/Test.git
+    git add .
     git push -u origin master
 
 
