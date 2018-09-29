@@ -19,7 +19,7 @@
 **create new branch**
 
     git checkout -b <branch-name>
-    git push <remote-name> <branch-name> 
+    git push -f origin <branch-name> 
 
 **switch on new branch**
     
