@@ -32,4 +32,6 @@
 **get pull**
     
     git pull -f origin other-branch
+    https://github.com/wsdesignuiux/Android-ui-templates
+    https://github.com/superdevzhao/beautiful-android-ui
 
