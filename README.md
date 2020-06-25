@@ -10,6 +10,10 @@
     git add .
     git push -u origin master
 
+**Change remote url**
+      
+      git remote set-url origin https://webaddicted_migos_inson.git
+
 
 **push an existing repository from the command line**
 
