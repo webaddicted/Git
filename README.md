@@ -43,7 +43,8 @@
 
 
 
-WIFI ADB Connect :
+## WIFI ADB Connect :
+
 1. Add adb path in environment variable like **C:\Android\sdk\platform-tools\adb.exe**
 2. In cmd in project path call **adb shell ip route**
 3. **adb connect 192.168.33.17:5555**
