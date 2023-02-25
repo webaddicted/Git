@@ -13,9 +13,11 @@
     git push -u origin main // master
 
 **Change remote url**
+
       git remote set-url origin https://webaddicted_migos_inson.git
 
 **Check Remote URL**
+
         git config --get remote.origin.url
 
 **push an existing repository from the command line**
