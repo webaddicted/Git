@@ -44,7 +44,15 @@
     https://github.com/wsdesignuiux/Android-ui-templates
     https://github.com/superdevzhao/beautiful-android-ui
 
+**Get Line of code from to date**
 
+    git log --since="2024-04-01" --until="2024-04-30" --pretty=format: --numstat --author=deepaksharmatheboss@gmail.com     | awk 'NF { add         += $1; del += $2 } END { printf "Added lines: %s\nDeleted lines: %s\nTotal lines changed: %s\n", add, del, add + del }'
+    
+    Output is
+    
+    Added lines: 769987
+    Deleted lines: 572195
+    Total lines changed: 1342182
 
 ## WIFI ADB Connect :
 
